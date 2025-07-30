@@ -1,0 +1,10 @@
+/* External */
+.button{
+  background-color: hsl(200, 100%, 50%);
+  /* background-color: hsl(hue, saturation%, lightness%) */
+  color: white;
+  padding: 10px, 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
